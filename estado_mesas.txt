@@ -1,10 +1,10 @@
-Mesa 1: Disponível
-Mesa 2: Indisponível
-Mesa 3: Indisponível
+Mesa 1: Indisponível
+Mesa 2: Disponível
+Mesa 3: Disponível
 Mesa 4: Disponível
 Mesa 5: Disponível
 Mesa 6: Disponível
-Mesa 7: Indisponível
-Mesa 8: Indisponível
+Mesa 7: Disponível
+Mesa 8: Disponível
 Mesa 9: Disponível
-Mesa 10: Disponível
+Mesa 10: Indisponível
